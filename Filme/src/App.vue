@@ -22,7 +22,7 @@
           placeholder="Ano (ex: 2023)" 
           type="number" 
           min="1900"
-          max="2030"
+          max="2025"
           class="year-input"
         />
 
