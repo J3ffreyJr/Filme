@@ -21,8 +21,8 @@
           v-model.number="filterYear" 
           placeholder="Ano (ex: 2023)" 
           type="number" 
-          min="1900"
-          max="2030"
+          min="1800"
+          max="2025"
           class="year-input"
         />
 
