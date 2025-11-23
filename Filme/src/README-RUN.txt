@@ -1,0 +1,1 @@
+Ao correr a app, para acessar com localhost, apenas use http://localhost:5173
